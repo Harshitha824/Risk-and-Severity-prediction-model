@@ -1,0 +1,16 @@
+# Kaggle & Data Handling
+kaggle==1.7.4.5
+kagglehub==0.3.3
+pandas==2.2.3
+numpy==1.26.4
+
+# Machine Learning
+scikit-learn==1.5.2
+matplotlib==3.9.2
+seaborn==0.13.2  
+
+# Optional (for deployment or advanced usage)
+flask==3.0.3       # for building a web app
+fastapi==0.115.5   # for API deployment
+joblib==1.4.2      # for saving/loading models efficiently
+uvicorn==0.24.0    # for running FastAPI apps
