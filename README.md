@@ -44,7 +44,7 @@ ML_Model/
 ### 1️ Clone this repository
 
 ```bash
-git clone https://github.com/<your-username>/fever-risk-api.git
+git clone https://github.com/<Harshitha824>/fever-risk-api.git
 cd fever-risk-api
 ```
 
