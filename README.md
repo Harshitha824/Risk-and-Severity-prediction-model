@@ -2,13 +2,6 @@
 Fever Severity &amp; Risk Prediction API — An AI-powered health prediction system that analyzes patient data (age, temperature, heart rate, oxygen level, etc.) to classify fever severity (Mild/Moderate/Severe) and risk level (Low/High) using Machine Learning and FastAPI.
 ---
 
-# Fever Severity & Risk Prediction API
-
-An **AI-powered health prediction system** that analyzes patient health data to classify **fever severity** (Mild / Moderate / Severe) and **risk level** (Low / High).
-Built using **Python, FastAPI, scikit-learn, and Streamlit**, this project demonstrates how ML models can support early health risk assessment.
-
----
-
 ## Features
 
 *  **ML Models** (Random Forest) trained on synthetic patient data
