@@ -140,5 +140,3 @@ Pull requests are welcome!
 For major changes, please open an issue first to discuss what you’d like to modify.
 
 ---
-
-Would you like me to include a **diagram (architecture image)** for your GitHub readme too — showing how the system flows from input → model → API → dashboard?
